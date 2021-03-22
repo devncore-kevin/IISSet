@@ -36,6 +36,13 @@ IIS는 Internet Information Sevices 의 약자 이며,
  
  ![image](https://user-images.githubusercontent.com/68521148/111441339-9611a300-874a-11eb-8851-2ee0e81164b2.png)
 
+ * 왼쪽 트리 에서  사이트의 Default Web Site 를 선택하고, 오른쪽의 시작 버튼을  눌러 웹사이트를 실행합니다.
 
+  ![1](https://user-images.githubusercontent.com/68521148/111926213-45ee6400-8aef-11eb-9fd1-df2fc5f3bb08.png)
+
+
+---
+단순 HTML로만 만들어진 사이트와 세팅 하는 방법과 닷넷을 사용해 만든 사이트를 세팅하는 방법은 다릅니다.  
+조만간 업데이트 하도록 하겠습니다.
 
 
