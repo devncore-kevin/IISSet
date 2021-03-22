@@ -9,7 +9,7 @@ IIS는 Internet Information Sevices 의 약자 이며,
 장점이자 단점인 마이크로소프트에서 제공하는 윈도우 OS에서만 사용이 가능하다는점
 
 ## 2. IIS 세팅
- ### 1. 제어판 - 프로그램 - 프로그램 및 기능 - "Windows 기능 켜기/끄기" 를 클릭합니다. 
+ ### 1. 제어판 - 프로그램 - 프로그램 및 기능 - "Windows 기능 켜기/끄기" 를 클릭합니다.
  
 ![994D4A4B5B02EDD411](https://user-images.githubusercontent.com/68521148/111440255-82197180-8749-11eb-994f-e8bee0617a26.png) 
 
