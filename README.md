@@ -1,4 +1,4 @@
-# IIS 세팅
+# IIS 세팅 
 ## 1. IIS란?
 IIS는 Internet Information Sevices 의 약자 이며,
 마이크로소프트 원도우를 사용하는 서버들을 위한 인터넷 기반 서비스들의 모임
