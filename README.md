@@ -41,5 +41,6 @@ IIS는 Internet Information Sevices 의 약자 이며,
 
   ![1](https://user-images.githubusercontent.com/68521148/111926213-45ee6400-8aef-11eb-9fd1-df2fc5f3bb08.png)
 
-
-
+---
+***단순 HTML로만 만들어진 사이트와 세팅 하는 방법과 닷넷을 사용해 만든 사이트를 세팅하는 방법은 다릅니다.***  
+***조만간 업데이트 하도록 하겠습니다.***
